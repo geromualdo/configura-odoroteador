@@ -30,3 +30,20 @@ Que significa se você deseja um configuração com dialogo. Ai basta digitar "N
 8º #exit Tecla Enter
 
 <b>SEGUNDA PARTE PARA CONFIGURAR A INTARFACE DA REDE COM ENDEREÇO IP E GATEWAY E SALVAR</b>
+
+Para configurar basta digitar Enter, em seguida, #interface  (nome que estã conectado o roteador ao switch).
+
+1 - #ip addres. Seguido da numeração e do gateway
+
+2 - #description(nome que quiser colocar)
+
+3 - #no shutdow para finalizar, e  teclar enter.
+
+<b> Para sair das configurações basta terclar enter e digitar #exit e repetir outra vez enter e #exit.</b>
+
+Para salvar tudo o que foi feito basta digitar: #copy  running-config  startup-config e teclar 2 vezes enter.
+
+Segue o exemplo atraves das imagens.
+
+
+
