@@ -7,7 +7,7 @@ Que significa se você deseja um configuração com dialogo. Ai basta digitar "N
 
 <b>OBS: É necessario prestar bastante atenção na escrita, pois é muito importante, caso digite uma palavra errada dará erro e irá travar por alguns segundos ai caso aconteça de enter e volte na opção Return e digite corretamente a palavra.</b>
 
-PASSO a PASSO (Esta fase é simples basta se atentar a escrita)
+<b>PRIMEIRA PARTA - PASSO a PASSO (Esta fase é simples basta se atentar a escrita)</b>
 
 <b>Lembrando que basta digitar nessa ordem ao lado das palavras "Router>" e "Router#". Conforme vai aparecendo as mensagem basta digitar ao lado os seguindes comando:</b>
 
@@ -29,3 +29,4 @@ PASSO a PASSO (Esta fase é simples basta se atentar a escrita)
 
 8º #exit Tecla Enter
 
+<b>SEGUNDA PARTE PARA CONFIGURAR A INTARFACE DA REDE COM ENDEREÇO IP E GATEWAY E SALVAR</b>
