@@ -46,4 +46,9 @@ Para salvar tudo o que foi feito basta digitar: #copy  running-config  startup-c
 Segue o exemplo atraves das imagens.
 
 
+![Config1](https://user-images.githubusercontent.com/102399570/200941330-b0bd76c8-7dea-4199-b3a0-87480b16785d.png)
+![Configu2](https://user-images.githubusercontent.com/102399570/200941739-07a9908f-27d2-4dd7-b7a3-20416e830632.png)
+![Confi3](https://user-images.githubusercontent.com/102399570/200941852-a677b9b1-df67-4a60-924b-e6398e9ed618.png)
+
+
 
